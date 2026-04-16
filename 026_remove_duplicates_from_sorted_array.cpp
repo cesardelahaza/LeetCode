@@ -1,6 +1,7 @@
 // LeetCode #26 - Remove Duplicates from Sorted Array
 // https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 // Topic: Array | Two Pointers
+// Level: Easy
 
 #include <iostream>
 #include <vector>

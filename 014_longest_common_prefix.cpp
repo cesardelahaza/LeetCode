@@ -1,6 +1,7 @@
 // LeetCode #14 - Longest Common Prefix
 // https://leetcode.com/problems/longest-common-prefix/
 // Topic: Array | String | Trie
+// Level: Easy
 
 #include <iostream>
 #include <vector>

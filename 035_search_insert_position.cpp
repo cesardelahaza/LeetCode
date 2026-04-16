@@ -1,6 +1,7 @@
 // LeetCode #35 - Search Insert Position
 // https://leetcode.com/problems/search-insert-position/
 // Topic: Array | Binary Search
+// Level: Easy
 
 #include <iostream>
 #include <vector>

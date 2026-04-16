@@ -1,6 +1,7 @@
 // LeetCode #118 - Pascal's Triangle
 // https://leetcode.com/problems/pascals-triangle/
 // Topic: Array | Dynamic Programming
+// Level: Easy
 
 #include <iostream>
 #include <vector>

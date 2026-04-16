@@ -1,6 +1,7 @@
 // LeetCode #66 - Plus One
 // https://leetcode.com/problems/plus-one/
 // Topic: Array | Math
+// Level: Easy
 
 #include <iostream>
 #include <vector>

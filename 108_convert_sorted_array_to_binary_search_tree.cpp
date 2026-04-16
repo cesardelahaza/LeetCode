@@ -1,6 +1,7 @@
 // LeetCode #88 - Convert Sorted Array to Binary Search Tree
 // https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 // Topic: Array | Divide and Conquer | Tree | Binary Search Tree | Binary Tree
+// Level: Easy
 
 #include <iostream>
 #include <vector>

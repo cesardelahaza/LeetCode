@@ -1,6 +1,7 @@
 // LeetCode #27 - Remove Element
 // https://leetcode.com/problems/remove-element/
 // Topic: Array | Two Pointers
+// Level: Easy
 
 #include <iostream>
 #include <vector>

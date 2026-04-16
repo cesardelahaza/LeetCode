@@ -1,6 +1,7 @@
 // LeetCode #1 - Two Sum
 // https://leetcode.com/problems/two-sum/
 // Topic: Array | Hash Table
+// Level: Easy
 
 #include <iostream>
 #include <vector>
